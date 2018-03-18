@@ -1,21 +1,14 @@
 # OrcuttCoin
 
-### OrcuttCoin is tied to the price of one Bill Orcutt record (Harry Pussy not included). 
-
-For the price of one OrcuttCoin, we will automatically purchase one Bill Orcutt record and melt it in an oven so that no one ever has to listen to it.
-
-
-
-NOTICE: We are mainly using v1.0.5 which is still p2p port 8133 and rpcport is 8232
-
-
-OrcuttCoin v1.0.10-1
-
-NOTICE, the default ports have changed! The p2p port is now 8033 and rpcport is 8023
-
 What is OrcuttCoin?
 ----------------
-OrcuttCoin is financial freedom.
+OrcuttCoin is tied to the price of Bill Orcutt's solo records (Harry Pussy, works with Corsano excluded). 
+
+For the price of one OrcuttCoin, one Bill Orcutt record is purchased and melted in an oven so that no one ever has to listen to it. Video recording of the purchase and melting of an Orcutt record is then hashed and stored in an immutable distributed blockchain.
+
+Why OrcuttCoin?
+----------------
+*Loren Connors did it better in 1979* b/w *White Moaning Blues Guy is Bad on Purpose Invalidated By Data on the Blockchain Stomp*
 
 Install
 -----------------
