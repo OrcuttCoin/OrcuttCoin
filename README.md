@@ -1,3 +1,11 @@
+# OrcuttCoin
+
+### OrcuttCoin is tied to the price of one Bill Orcutt record (Harry Pussy not included). 
+
+For the price of one OrcuttCoin, we will automatically purchase one Bill Orcutt record and melt it in an oven so that no one ever has to listen to it.
+
+
+
 NOTICE: We are mainly using v1.0.5 which is still p2p port 8133 and rpcport is 8232
 
 
