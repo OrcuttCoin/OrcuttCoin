@@ -2,13 +2,15 @@
 
 What is OrcuttCoin?
 ----------------
-OrcuttCoin is tied to the price of Bill Orcutt's solo records (Harry Pussy, works with Corsano excluded). 
+OrcuttCoin is a proof-of-Orcutt cyrptocurrency with a token economy tied to the price of one solo Bill Orcutt record.
 
-For the price of one OrcuttCoin, one Bill Orcutt record is purchased and melted in an oven so that no one ever has to listen to it. Video recording of the purchase and melting of an Orcutt record is then hashed and stored in an immutable distributed blockchain.
+For the price of one OrcuttCoin, one Bill Orcutt record is purchased and melted in an oven so that no one ever has to listen to it. The proof of destruction is based on the Stellar Social Consensus (SCP) algorithm and stored in an immutable distributed blockchain.
 
 Why OrcuttCoin?
 ----------------
-A. *Loren Connors Did it Better in 1979*
+A. *Loren Connors Did it Better in 1979* 
+
+b/w
 
 B. *White Moaning Blues Guy is Bad on Purpose Invalidated By Data on the Blockchain Stomp*
 
